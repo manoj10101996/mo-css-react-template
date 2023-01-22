@@ -7,6 +7,8 @@ The display CSS property sets whether an element is treated as a block or inline
 
 Looking to quickly add Mo Css library to your project? Use our very own `CDN  Content Delivery Network`  a free open source CDN.
 
+   ```https://cdn.beforepost.com/neptune/beforepost-0.2.min.css```
+
 **Components**
 
 ![](https://www.beforepost.com/assets/alert.svg)
